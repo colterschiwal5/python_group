@@ -11,8 +11,8 @@ A game where the user can play against the computer or multi-player. Either the 
 * Katelyn - 
 
 ## GUI mockups
-[Start Screen](https://github.com/colterschiwal5/python_group/blob/Frogger-or-TicTacToe/Tic-Tac-Toe/Images/StartScreen.png?raw=true)
-[Intra-game](https://github.com/colterschiwal5/python_group/blob/Frogger-or-TicTacToe/Tic-Tac-Toe/Images/Playing.png)
-[Game Over](https://github.com/colterschiwal5/python_group/blob/Frogger-or-TicTacToe/Tic-Tac-Toe/Images/GameOver.png?raw=true)
+![Start Screen](https://github.com/colterschiwal5/python_group/blob/Frogger-or-TicTacToe/Tic-Tac-Toe/Images/StartScreen.png?raw=true)
+![Intra-game](https://github.com/colterschiwal5/python_group/blob/Frogger-or-TicTacToe/Tic-Tac-Toe/Images/Playing.png)
+![Game Over](https://github.com/colterschiwal5/python_group/blob/Frogger-or-TicTacToe/Tic-Tac-Toe/Images/GameOver.png?raw=true)
 ## Classes
-[Class Diagram](https://github.com/colterschiwal5/python_group/blob/Frogger-or-TicTacToe/Tic-Tac-Toe/Images/Tic-Tac-Toe.png?raw=true)
+![Class Diagram](https://github.com/colterschiwal5/python_group/blob/Frogger-or-TicTacToe/Tic-Tac-Toe/Images/Tic-Tac-Toe.png?raw=true)
