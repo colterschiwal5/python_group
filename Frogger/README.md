@@ -1,5 +1,5 @@
 # Frogger
-A game where a user helps a frog cross the screen while avoiding cars and jumping over a river using logs.
+A game where a user helps a frog cross the screen while avoiding cars and jumping over rivers using logs. You can collect flies for extra bonuses, and powerups to help you.
 
 ## Contributers
 * Ava - coder
